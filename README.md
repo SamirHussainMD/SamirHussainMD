@@ -1,13 +1,8 @@
-### Hi there 👋 This is Samir
+### Hi there 👋 This is Samir Hussain 
 
-Here are some ideas to get you started:
+Here are some facts about me :
 
-- 🔭 I’m currently studying in BANNARI AMMAN INSTITUTE OF TECHNOLOGY
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently studying in BANNARI AMMAN INSTITUTE OF TECHNOLOGY (UG-CSE)
+- I’m currently learning Data Structures and Algorithms.
+- Pronouns: he/him
+
